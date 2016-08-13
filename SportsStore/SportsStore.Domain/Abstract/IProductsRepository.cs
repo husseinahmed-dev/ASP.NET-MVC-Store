@@ -1,4 +1,7 @@
-﻿using System;
+﻿/*
+ * Repository pattern interface that fetch model (Product) from database.
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
